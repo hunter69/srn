@@ -2,7 +2,7 @@ body {
   background-color: #ffe5ec;
 }
 
-.candle-count-display {
+.candle-count-display  {
   text-align: center;
   margin-top: 150px;
   margin-bottom: 20px;
@@ -345,4 +345,5 @@ text-shadow: 1px 1px 0 #c04d70,
 8px 8px 1px rgba(0, 0, 0, 0.5);
 z-index: 1000;
 transform: rotate(-15deg);
+
 }
